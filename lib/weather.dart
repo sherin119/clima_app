@@ -1,9 +1,6 @@
 import 'networking.dart';
 import 'location.dart';
-
-
-const String apiKey = '0776fe7e405d2425a7ef5c98f249e90e';
-
+import 'api_key.dart';
 
 class WeatherModel {
 
